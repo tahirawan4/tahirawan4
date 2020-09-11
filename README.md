@@ -1,10 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working on multiple projects and mostly on Python/Django complex web applications.
+- 🔭 I’m currently working on multiple complex web applications in Python/Django.
 
-- 🌱 I’m currently learning Reactjs and Angularjs.
+- 🌱 I’m currently learning Reactjs, React Native and Angularjs.
 
 - 📫 How to reach me:
-     
      You can reach me anytime on my email address: :e-mail: tahirawan4@gmail.com
 
 <!--
