@@ -5,7 +5,7 @@
 
 - 📫 How to reach me:
      
-      You can reach me anytime on my email address: :e-mail: tahirawan4@gmail.com
+     You can reach me anytime on my email address: :e-mail: tahirawan4@gmail.com
 
 <!--
 **tahirawan4/tahirawan4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
