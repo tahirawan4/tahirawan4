@@ -55,7 +55,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahirawan4&show_icons=true&theme=radical" alt="tahirawan4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahirawan4&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="tahirawan4" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahirawan4&theme=radical" alt="streak-stats" />
 </p>
