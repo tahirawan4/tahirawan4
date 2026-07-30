@@ -20,12 +20,7 @@
 
 <table>
 <tr>
-<td width="24%" align="center" valign="top">
-
-<img src="https://github.com/tahirawan4.png" width="180" alt="Tahir Fazal Awan" />
-
-</td>
-<td width="76%" valign="top">
+<td width="100%" valign="top">
 
 I am a **Senior AI/LLM Engineer, Applied AI Engineer, Forward Deployment Engineer, and Full-Stack Python Developer** with more than **12 years of software engineering experience**.
 
