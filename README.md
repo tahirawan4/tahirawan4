@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Samaritan%20Technologies-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samaritan-technologies.com/)
 [![Email](https://img.shields.io/badge/Email-tahirawan4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahirawan4@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahir%20Fazal%20Awan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahir-fazal-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahir%20Fazal%20Awan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadtahir-/)
 [![GitHub](https://img.shields.io/badge/GitHub-tahirawan4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahirawan4)
 ![Profile Views](https://komarev.com/ghpvc/?username=tahirawan4&style=for-the-badge&color=7C3AED)
 
