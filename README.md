@@ -7,7 +7,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-Samaritan%20Technologies-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samaritan-technologies.com/)
-[![Email](https://img.shields.io/badge/Email-tahirawan7892%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahirawan7892@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tahirawan4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahirawan4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahir%20Fazal%20Awan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahir-fazal-awan/)
 [![GitHub](https://img.shields.io/badge/GitHub-tahirawan4-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahirawan4)
 ![Profile Views](https://komarev.com/ghpvc/?username=tahirawan4&style=for-the-badge&color=7C3AED)
@@ -421,7 +421,7 @@ I am open to discussing **AI engineering, applied AI, forward deployment, agent 
 <br/>
 
 [![Website](https://img.shields.io/badge/Visit-Samaritan%20Technologies-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samaritan-technologies.com/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-tahirawan7892%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahirawan7892@gmail.com)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-tahirawan4%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahirawan4@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahir-fazal-awan/)
 [![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahirawan4)
 
